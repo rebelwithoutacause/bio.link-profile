@@ -13,3 +13,5 @@ QA Tester | Puzzle Solver | Creative Thinker | Coffee Enthusiast ☕
 I use this one-page site to organize:
 - Projects & tasks
 - Contact & socials
+
+QR code : ![qr](https://github.com/user-attachments/assets/9b9d5447-90ef-4d27-ae0c-71f703f83036)
